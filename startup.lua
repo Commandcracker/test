@@ -1,3 +1,4 @@
+--dsasad
 shell.run("ls")
 
 local file = fs.open("/dd", "a")
