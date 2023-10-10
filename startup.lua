@@ -6,3 +6,5 @@ file.writeLine("")
 file:close()
 
 shell.run("ls")
+
+shell.run("mount")
