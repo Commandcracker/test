@@ -1,4 +1,4 @@
---dsasad
+--owo
 shell.run("ls")
 
 local file = fs.open("/dd", "a")
